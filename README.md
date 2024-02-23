@@ -1,2 +1,2 @@
 # PinballVisionOS
-PiballGame
+PinballGame
